@@ -1,7 +1,7 @@
-#Katas-Python
+# Katas-Python
 **Katas de python** 
 
-##READ ME
+## READ ME
 
 Descripción del proyecto:
 El siguiente proyecto es un ejercicio práctico que desarrolla una serie de 40 katas de python, donde el objetivo es aprender los conocimientos adquiridos en Py:
