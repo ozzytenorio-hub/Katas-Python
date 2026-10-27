@@ -1,7 +1,7 @@
-# Katas-Python
-** Katas de python ** 
+#Katas-Python
+**Katas de python** 
 
-# READ ME
+##READ ME
 
 Descripción del proyecto:
 El siguiente proyecto es un ejercicio práctico que desarrolla una serie de 40 katas de python, donde el objetivo es aprender los conocimientos adquiridos en Py:
@@ -22,11 +22,11 @@ El siguiente proyecto es un ejercicio práctico que desarrolla una serie de 40 k
 
 ● Buenas prácticas.
 
-** Estructura del proyecto: ** 
+**Estructura del proyecto:** 
 
 Dentro de este repositorio encontraremos dos archivos, el README.md, y KATAS_PY.ipynb, que contiene la lista de Katas proporcionadas y la resolución de las mismas
 
-** Requisitos: **
+**Requisitos:**
 
 - Python 3.10 o superior (se usa `match/case`)
 - Jupyter (para abrir los notebooks `.ipynb`)
@@ -57,7 +57,7 @@ jupyter notebook
 
 O abre los `.ipynb` directamente en VS Code con la extensión Jupyter.
 
-** Procedimiento: ** 
+**Procedimiento:** 
 
 Comencé leyendo los Katas proporcionados, coloque una celda de markdown con todos los ejercicios, lo siguiente fue instalar las librerias necesarias para la resolucion de los ejercicios, por buenas prácticas tienen que estar al principio de todo. Durante un par de días estuve resolviendo los ejercicios apoyado de mis apuntes de clase, y junto con alguna consulta puntual a Claude, sobre todo para profundizar y entender mejor algunos comportamientos, particularmente de funciones, a medida de que iba resolviendo los Katas, fui dejando comentarios sobre como me acercaba a los problemas, una vez resueltos los, volvi a repasar y a revisar la resolución de los mismos, en algunos casos pude dar con soluciones mas sencillas en la segunda vuelta de repaso del codigo, en esta segunda vuelta también me encargué de realizar todos los docstrings (cosa que tuve que haber hecho al primer momento) corrí todas las celdas, compare lo que pedian los ejercicios una última vez y voilà parece ser que todo esta correcto.
 
